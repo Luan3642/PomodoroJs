@@ -7,13 +7,13 @@
 }
 
 .quadrado{
-    height: 18vw;
-    width: 34vw;
+    height: 212px;
+    width: 411px;
     border-radius: 13%;
     background-color: white;
 }
 .clock{
-    font-size: 10vmin;
+    font-size: 8vmin;
     color:tomato;
         
 }
